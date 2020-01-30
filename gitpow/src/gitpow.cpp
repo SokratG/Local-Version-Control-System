@@ -11,7 +11,7 @@
 #define COMPLETE_CODE 0
 #define ERROR_CODE -1
 
-//D:\project\OpenSource\Cpp\boost_1_72_0
+
 void HandleMessageLoop(CommandParse&, GitRepository&, HANDLE&);
 void warning(const wstring& message, const HANDLE& hConsole);
 void error(const wstring& message, const HANDLE& hConsole);
