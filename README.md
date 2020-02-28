@@ -21,7 +21,6 @@ For building using VS 2019:
 * cd
 * pwd
 * help
-* exit
 
 ## Third party libraries
 * <a href="https://github.com/vog/sha1">SHA-1</a>
